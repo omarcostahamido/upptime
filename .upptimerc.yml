@@ -9,7 +9,7 @@ sites:
     url: https://quantumland.art
   - name: sarahtrotterart.com
     url: https://sarahtrotterart.com
-  - name: newquantumera.com [staged]
+  - name: newquantumera.com [Staged]
     url: $SECRET_SITE_1
   # - name: IPv6 test
   #   url: forwardemail.net
