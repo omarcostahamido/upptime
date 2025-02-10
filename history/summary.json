@@ -58,18 +58,20 @@
     "url": "https://sarahtrotterart.com",
     "icon": "https://icons.duckduckgo.com/ip3/sarahtrotterart.com.ico",
     "slug": "sarahtrotterart-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1504,
-    "timeDay": 1679,
-    "timeWeek": 1507,
-    "timeMonth": 1488,
-    "timeYear": 1504,
-    "dailyMinutesDown": {}
+    "time": 1559,
+    "timeDay": 5966,
+    "timeWeek": 2600,
+    "timeMonth": 1762,
+    "timeYear": 1559,
+    "dailyMinutesDown": {
+      "2025-02-10": 0
+    }
   },
   {
     "name": "newquantumera.com [Staged]",
