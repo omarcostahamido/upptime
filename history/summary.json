@@ -4,36 +4,40 @@
     "url": "https://omarcostahamido.com",
     "icon": "https://icons.duckduckgo.com/ip3/omarcostahamido.com.ico",
     "slug": "omarcostahamido-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 169,
-    "timeDay": 191,
-    "timeWeek": 203,
-    "timeMonth": 179,
+    "timeDay": 167,
+    "timeWeek": 195,
+    "timeMonth": 178,
     "timeYear": 169,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-23": 0
+    }
   },
   {
     "name": "quantumland.art",
     "url": "https://quantumland.art",
     "icon": "https://icons.duckduckgo.com/ip3/quantumland.art.ico",
     "slug": "quantumland-art",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 329,
-    "timeDay": 262,
-    "timeWeek": 260,
-    "timeMonth": 349,
-    "timeYear": 329,
-    "dailyMinutesDown": {}
+    "time": 328,
+    "timeDay": 167,
+    "timeWeek": 237,
+    "timeMonth": 341,
+    "timeYear": 328,
+    "dailyMinutesDown": {
+      "2025-08-23": 0
+    }
   },
   {
     "name": "community.quantumland.art",
@@ -80,17 +84,19 @@
     "url": "$SECRET_SITE_1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "newquantumera-com-staged",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 214,
-    "timeDay": 194,
-    "timeWeek": 236,
-    "timeMonth": 227,
+    "timeDay": 189,
+    "timeWeek": 229,
+    "timeMonth": 226,
     "timeYear": 214,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-23": 0
+    }
   }
 ]
