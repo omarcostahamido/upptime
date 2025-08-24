@@ -25,19 +25,19 @@
     "url": "https://quantumland.art",
     "icon": "https://icons.duckduckgo.com/ip3/quantumland.art.ico",
     "slug": "quantumland-art",
-    "status": "down",
+    "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "45.54%",
-    "uptimeWeek": "92.22%",
-    "uptimeMonth": "98.21%",
+    "uptimeDay": "43.91%",
+    "uptimeWeek": "91.99%",
+    "uptimeMonth": "98.16%",
     "uptimeYear": "99.84%",
-    "time": 327,
-    "timeDay": 59,
-    "timeWeek": 198,
-    "timeMonth": 327,
-    "timeYear": 327,
+    "time": 328,
+    "timeDay": 160,
+    "timeWeek": 216,
+    "timeMonth": 328,
+    "timeYear": 328,
     "dailyMinutesDown": {
-      "2025-08-24": 332,
+      "2025-08-24": 355,
       "2025-08-23": 453
     }
   },
@@ -88,9 +88,9 @@
     "slug": "newquantumera-com-staged",
     "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "45.54%",
-    "uptimeWeek": "92.22%",
-    "uptimeMonth": "98.21%",
+    "uptimeDay": "43.90%",
+    "uptimeWeek": "91.99%",
+    "uptimeMonth": "98.16%",
     "uptimeYear": "99.84%",
     "time": 213,
     "timeDay": 167,
@@ -98,7 +98,7 @@
     "timeMonth": 222,
     "timeYear": 213,
     "dailyMinutesDown": {
-      "2025-08-24": 332,
+      "2025-08-24": 355,
       "2025-08-23": 453
     }
   }
