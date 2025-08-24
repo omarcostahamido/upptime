@@ -4,15 +4,15 @@
     "url": "https://omarcostahamido.com",
     "icon": "https://icons.duckduckgo.com/ip3/omarcostahamido.com.ico",
     "slug": "omarcostahamido-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
     "uptimeDay": "45.54%",
     "uptimeWeek": "92.22%",
     "uptimeMonth": "98.21%",
     "uptimeYear": "99.84%",
     "time": 169,
-    "timeDay": 168,
-    "timeWeek": 193,
+    "timeDay": 164,
+    "timeWeek": 189,
     "timeMonth": 176,
     "timeYear": 169,
     "dailyMinutesDown": {
@@ -27,9 +27,9 @@
     "slug": "quantumland-art",
     "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "43.90%",
-    "uptimeWeek": "91.99%",
-    "uptimeMonth": "98.16%",
+    "uptimeDay": "42.42%",
+    "uptimeWeek": "91.77%",
+    "uptimeMonth": "98.11%",
     "uptimeYear": "99.84%",
     "time": 327,
     "timeDay": 157,
@@ -37,7 +37,7 @@
     "timeMonth": 323,
     "timeYear": 327,
     "dailyMinutesDown": {
-      "2025-08-24": 355,
+      "2025-08-24": 376,
       "2025-08-23": 453
     }
   },
@@ -88,9 +88,9 @@
     "slug": "newquantumera-com-staged",
     "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "36.85%",
-    "uptimeWeek": "90.98%",
-    "uptimeMonth": "97.92%",
+    "uptimeDay": "35.37%",
+    "uptimeWeek": "90.77%",
+    "uptimeMonth": "97.88%",
     "uptimeYear": "99.82%",
     "time": 213,
     "timeDay": 167,
@@ -98,7 +98,7 @@
     "timeMonth": 222,
     "timeYear": 213,
     "dailyMinutesDown": {
-      "2025-08-24": 457,
+      "2025-08-24": 478,
       "2025-08-23": 453
     }
   }
