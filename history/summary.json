@@ -68,17 +68,17 @@
     "url": "https://sarahtrotterart.com",
     "icon": "https://icons.duckduckgo.com/ip3/sarahtrotterart.com.ico",
     "slug": "sarahtrotterart-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 1580,
-    "timeDay": 1398,
-    "timeWeek": 1362,
-    "timeMonth": 1556,
-    "timeYear": 1563,
+    "time": 1596,
+    "timeDay": 6057,
+    "timeWeek": 2531,
+    "timeMonth": 1851,
+    "timeYear": 1586,
     "dailyMinutesDown": {
       "2025-08-25": 21,
       "2025-08-27": 28,
@@ -91,7 +91,8 @@
       "2025-11-23": 64,
       "2025-11-22": 11,
       "2025-12-28": 19,
-      "2026-03-17": 105
+      "2026-03-17": 105,
+      "2026-07-24": 0
     }
   },
   {
