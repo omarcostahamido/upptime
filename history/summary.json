@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 189,
-    "timeDay": 210,
-    "timeWeek": 139,
-    "timeMonth": 192,
+    "timeDay": 195,
+    "timeWeek": 137,
+    "timeMonth": 194,
     "timeYear": 195,
-    "dailyMinutesDown": {
-      "2025-08-26": 146
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "quantumland.art",
@@ -30,14 +28,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 365,
-    "timeDay": 589,
-    "timeWeek": 262,
-    "timeMonth": 344,
+    "time": 364,
+    "timeDay": 303,
+    "timeWeek": 274,
+    "timeMonth": 342,
     "timeYear": 374,
-    "dailyMinutesDown": {
-      "2025-08-26": 159
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "community.quantumland.art",
@@ -51,8 +47,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 179,
-    "timeDay": 290,
-    "timeWeek": 141,
+    "timeDay": 174,
+    "timeWeek": 145,
     "timeMonth": 178,
     "timeYear": 181,
     "dailyMinutesDown": {
@@ -69,12 +65,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.88%",
-    "time": 1544,
-    "timeDay": 782,
-    "timeWeek": 1361,
-    "timeMonth": 1547,
-    "timeYear": 1555,
+    "uptimeYear": "99.89%",
+    "time": 1542,
+    "timeDay": 630,
+    "timeWeek": 1192,
+    "timeMonth": 1516,
+    "timeYear": 1552,
     "dailyMinutesDown": {
       "2025-08-27": 28,
       "2025-08-30": 25,
@@ -102,13 +98,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
     "time": 227,
-    "timeDay": 280,
-    "timeWeek": 180,
-    "timeMonth": 207,
+    "timeDay": 206,
+    "timeWeek": 183,
+    "timeMonth": 205,
     "timeYear": 225,
     "dailyMinutesDown": {
-      "2025-08-27": 588,
-      "2025-08-26": 423
+      "2025-08-27": 588
     }
   }
 ]
